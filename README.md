@@ -5,7 +5,6 @@ Users should install the following packages first, which will install in about 5
 absl-py==2.1.0
 astunparse==1.6.3
 cachetools==5.5.2
-certifi @ file:///croot/certifi_1725551672989/work/certifi
 charset-normalizer==3.4.1
 Cython==3.0.12
 flatbuffers==25.2.10
