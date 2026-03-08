@@ -1,0 +1,8 @@
+2025-02-14 20:20:21 - WARNING - From train.py:15: The name tf.sparse_placeholder is deprecated. Please use tf.compat.v1.sparse_placeholder instead.
+
+2025-02-14 20:20:21 - WARNING - From train.py:15: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2025-02-14 20:20:21 - WARNING - From train.py:15: The name tf.truncated_normal is deprecated. Please use tf.random.truncated_normal instead.
+
+2025-02-14 20:20:21 - WARNING - From train.py:15: The name tf.sparse_tensor_dense_matmul is deprecated. Please use tf.sparse.sparse_dense_matmul instead.
+
